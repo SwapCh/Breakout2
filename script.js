@@ -118,7 +118,7 @@ function moveball(){
     checkcollision();
 }
 
-timerId=setInterval(moveball, 18);
+timerId=setInterval(moveball, 23);
 
 function checkcollision(){
     //checking if ball enter the area of any of the block
